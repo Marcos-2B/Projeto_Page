@@ -1,0 +1,18 @@
+p {
+    color: rgb(255, 0, 221);
+    border: 1px;
+    border-color: aqua;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+nav {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
